@@ -1,16 +1,16 @@
-## Code The Dream 
-### ADVANCED PRE-WORK ASSIGNMENT
+# Code The Dream 
+## ADVANCED PRE-WORK ASSIGNMENT
 
 API based Javascript project which uses STAR-WAR API to display api data.
 API used is [Star War](https://www.swapi.tech/api/planets/)
 
-#### Technogies: 
-- HTML
-- CSS
-- Javascript
-- axios
+### Technogies: 
+- [HTML](https://www.w3schools.com/html/default.asp)
+- [CSS](https://www.w3schools.com/css/default.asp)
+- [Javascript](https://www.w3schools.com/js/default.asp)
+- [AXIOS](https://axios-http.com/docs/intro)
 
-##### AXIOS installation:
+### AXIOS Installation:
 
 Axios is an HTTP client library based on promises. It makes sending asynchronous HTTP requests to REST endpoints easier and helps you perform CRUD operations
 
